@@ -1,0 +1,13 @@
+com\mycompany\lotrapp\aplicacion\PersonajeService.class
+com\mycompany\lotrapp\dominio\HumanoStrategy.class
+com\mycompany\lotrapp\infraestructura\persistence\CharacterFactory.class
+com\mycompany\lotrapp\infraestructura\persistence\MySQLPersonajeRepository.class
+com\mycompany\lotrapp\aplicacion\IPersonajeRepository.class
+com\mycompany\lotrapp\dominio\EnanoStrategy.class
+com\mycompany\lotrapp\dominio\HobbitStrategy.class
+com\mycompany\lotrapp\dominio\Atributos.class
+com\mycompany\lotrapp\dominio\RazaStrategy.class
+com\mycompany\lotrapp\infraestructura\persistence\DatabaseConnection.class
+com\mycompany\lotrapp\infraestructura\ui\PersonajeServlet.class
+com\mycompany\lotrapp\dominio\Personaje.class
+com\mycompany\lotrapp\dominio\ElfoStrategy.class

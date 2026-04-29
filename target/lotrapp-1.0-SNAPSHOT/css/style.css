@@ -1,0 +1,26 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 29 abr. 2026, 10:25:13 a. m.
+    Author     : USER
+*/
+
+body { 
+    background-color: #1a1a1a; 
+    color: #f4e1d2; 
+    font-family: 'Cinzel', serif; 
+}
+.card { 
+    border: 1px solid #d4af37; 
+    padding: 20px; 
+    border-radius: 8px; 
+    background: #2a2a2a; 
+}
+button { 
+    background-color: #d4af37; 
+    color: black; 
+    font-weight: bold; 
+    cursor: pointer;
+}
