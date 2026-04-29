@@ -1,0 +1,40 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+nbproject/
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Archivos sensibles
+.env
+
+# NetBeans
+nb-configuration.xml
+
+# Logs
+*.log
+logs/
+
+# Sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
